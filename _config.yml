@@ -19,7 +19,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   name             : "Jeremy Gatineau"
   avatar           : "profile.png"
-  bio              : "PhD student at Virginia Tech, working in emergent communication in decentralized multi-agent systems"
+  bio              : "PhD student at Virginia Tech, working on decentralized convergence of multi-agent Reinforcement Learning systems."
   location         : "Arlington, VA"
   employer         :
   pubmed           : 
